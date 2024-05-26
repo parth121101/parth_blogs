@@ -1,10 +1,10 @@
 # site settings
 title: parth121101
 subtitle: by HTML5 UP
-email: msitry.2@iitj.ac.in
+email: mistry.2@iitj.ac.in
 description: Statistics | Algorithms | Software
 baseurl: "" # the subpath of your site, e.g. /blog
-url: parth_blogs.github.io
+url: parth121101.github.io
 author:
 street_address:
 city: Jodhpur
@@ -20,14 +20,13 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/czgdp1807
+github_url: https://github.com/parth121101
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/czgdp1807
+linkedin_url: https://www.linkedin.com/in/parth-mistry-86b884229/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/czgdp1807
 
 # build settings
 markdown: kramdown
